@@ -1,15 +1,14 @@
 # 👋 Hey there! Welcome to my GitHub profile
-
 I'm **Emilio Manes**
 
 ---
 
 ## 🧑‍💻 What I Do
 
-- Full-stack web development (PHP, Go, JavaScript, etc.)
+- Full-stack web development
 - Agile Project Management
 - Building APIs and scalable systems
-- Scripting, automation, and DevOps tools
+- Scripting, Scraping, Automation and Custom Tool Development
 
 ---
 
